@@ -16,6 +16,25 @@
 3. ##### Time Variant: It  stores data for a period of time. It also contains historical data.
 4. ##### Integrated: It has work with various analytics and reporting tools.
 5. ##### Subject Oriented: Its stores data related to a subject.
+# 
+ Types of Data Warehouse
+
+#### There are three main types of data warehouse.
+#
+
+
+1. Enterprise Data Warehouse (EDW)
+
+##### This type of warehouse serves as a key or central database that facilitates decision-support services throughout the enterprise. The advantage to this type of warehouse is that it provides access to cross-organizational information, offers a unified approach to data representation, and allows running complex queries.
+#
+2.  Operational Data Store (ODS)
+
+##### This type of data warehouse refreshes in real-time. It is often preferred for routine activities like storing employee records. It is required when data warehouse systems do not support reporting needs of the business. 
+#
+3. Data Mart
+
+##### A data mart is a subset of a data warehouse built to maintain a particular department, region, or business unit. Every department of a business has a central repository or data mart to store data
+# 
 
 
 
