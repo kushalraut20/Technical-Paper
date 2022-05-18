@@ -10,7 +10,12 @@
 ##### Data Warehousing integrates data and information collected from various sources into one comprehensive database. For example, a data warehouse might combine customer information from an organization’s point-of-sale systems, its mailing lists, website, and comment cards. It might also incorporate confidential information about employees, salary information, etc. Businesses use such components of data warehouse to analyze customers. 
 ##### Data mining is one of the features of a data warehouse that involves looking for meaningful data patterns in vast volumes of data and devising innovative strategies for increased sales and profits.  
 #
-
+- The features of the data warehouse are:
+1. ##### Non Volatile: meaning data once stored will not go away.
+2. #####  Summarized: The data is processed, segmented and stored so that analytics tool can use them
+3. ##### Time Variant: It  stores data for a period of time. It also contains historical data.
+4. ##### Integrated: It has work with various analytics and reporting tools.
+5. ##### Subject Oriented: Its stores data related to a subject.
 
 
 
