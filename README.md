@@ -18,6 +18,8 @@
 5. ##### Subject Oriented: Its stores data related to a subject.
 # 
  Types of Data Warehouse
+# 
+![Types of Data warehouse](Data-warehouse-1.png)
 
 #### There are three main types of data warehouse.
 #
@@ -36,5 +38,8 @@
 ##### A data mart is a subset of a data warehouse built to maintain a particular department, region, or business unit. Every department of a business has a central repository or data mart to store data
 # 
 
+### References
+-<a href="https://en.wikipedia.org/wiki/Data_warehouse">wiki</a>
 
+-<a href="https://www.simplilearn.com/data-warehouse-article">simplilearn</a>
 
