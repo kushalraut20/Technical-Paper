@@ -21,30 +21,30 @@
     <li>Subject Oriented: Its stores data related to a subject.</li>
 </ol>
 
-# 
+
 ## Types of Data Warehouse
 # 
 ![Types of Data warehouse](Data-warehouse-1.png)
 
-## There are three main types of data warehouse.
+### There are three main types of data warehouse.
 #
 
 
 ### 1. Enterprise Data Warehouse (EDW)
 
-##### This type of warehouse serves as a key or central database that facilitates decision-support services throughout the enterprise. The advantage to this type of warehouse is that it provides access to cross-organizational information, offers a unified approach to data representation, and allows running complex queries.
+ This type of warehouse serves as a key or central database that facilitates decision-support services throughout the enterprise. The advantage to this type of warehouse is that it provides access to cross-organizational information, offers a unified approach to data representation, and allows running complex queries.
 #
 ### 2.  Operational Data Store (ODS)
 
-##### This type of data warehouse refreshes in real-time. It is often preferred for routine activities like storing employee records. It is required when data warehouse systems do not support reporting needs of the business. 
+ This type of data warehouse refreshes in real-time. It is often preferred for routine activities like storing employee records. It is required when data warehouse systems do not support reporting needs of the business. 
 #
 ### 3. Data Mart
 
-##### A data mart is a subset of a data warehouse built to maintain a particular department, region, or business unit. Every department of a business has a central repository or data mart to store data
+ A data mart is a subset of a data warehouse built to maintain a particular department, region, or business unit. Every department of a business has a central repository or data mart to store data
 # 
 
 ### References
--<a href="https://en.wikipedia.org/wiki/Data_warehouse">wiki</a>
+<a href="https://en.wikipedia.org/wiki/Data_warehouse">wiki</a>
 
--<a href="https://www.simplilearn.com/data-warehouse-article">simplilearn</a>
+<a href="https://www.simplilearn.com/data-warehouse-article">simplilearn</a>
 
